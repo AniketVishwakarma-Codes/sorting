@@ -13,6 +13,7 @@ Worst Case	O(n²)	When the array is sorted in reverse order
 O(1) → In-place sorting algorithm
 
 Uses only a constant amount of extra memory
+
 2. 🔄 Selection Sort – Time & Space Complexity
 
 Selection Sort is a simple comparison-based sorting algorithm where the smallest element is repeatedly selected from the unsorted portion of the array and placed at its correct position.
