@@ -32,3 +32,19 @@ O(1) → In-place sorting algorithm
 
 ✔ Uses only a constant amount of extra memory
 ✔ No additional data structures required
+
+3. 🔄 Insertion Sort – Time & Space Complexity
+
+Insertion Sort is a simple comparison-based sorting algorithm where elements are picked one by one and inserted into their correct position in the already sorted part of the array.
+
+⏱️ Time Complexity
+Case	Complexity	Explanation
+Best Case	O(n)	When the array is already sorted, each element is compared only once
+Average Case	O(n²)	Each element is compared and shifted multiple times
+Worst Case	O(n²)	When the array is sorted in reverse order, maximum shifts are required
+💾 Space Complexity
+
+O(1) → In-place sorting algorithm
+
+✔ Uses constant extra memory
+✔ No additional data structures required
